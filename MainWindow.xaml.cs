@@ -19,6 +19,7 @@ namespace DispalyData
         public MainWindow()
         {
             InitializeComponent();
+            DateLable.Content = DateTime.Now;
         }
     }
 }
