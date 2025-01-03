@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Data;
+using System.Text;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Data;
@@ -19,7 +20,8 @@ namespace DispalyData
         public MainWindow()
         {
             InitializeComponent();
-            DateLable.Content = DateTime.Now;
+            DateLable.Content = DateTime.Now.ToString("yyyy-MM-dd HH:mm");
+            ;
         }
     }
 }
