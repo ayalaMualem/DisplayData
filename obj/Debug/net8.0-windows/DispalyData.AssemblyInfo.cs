@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DispalyData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b284ecf1c4288be733a5a506a0f42bb50da7f192")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f80ab5ef7630dd6d01f4e00672bf416275e980fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("DispalyData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DispalyData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
