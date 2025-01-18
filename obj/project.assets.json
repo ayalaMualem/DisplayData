@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a0548\\Documents\\לימודים\\שנה ב\\c#\\שיעור 17 גיט\\Git\\DispalyData\\DispalyData\\DispalyData.csproj",
+      "projectUniqueName": "C:\\Users\\a0548\\Documents\\לימודים\\שנה ב\\c#\\גיט 1\\Git\\DispalyData\\DispalyData\\DispalyData.csproj",
       "projectName": "DispalyData",
-      "projectPath": "C:\\Users\\a0548\\Documents\\לימודים\\שנה ב\\c#\\שיעור 17 גיט\\Git\\DispalyData\\DispalyData\\DispalyData.csproj",
+      "projectPath": "C:\\Users\\a0548\\Documents\\לימודים\\שנה ב\\c#\\גיט 1\\Git\\DispalyData\\DispalyData\\DispalyData.csproj",
       "packagesPath": "C:\\Users\\a0548\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a0548\\Documents\\לימודים\\שנה ב\\c#\\שיעור 17 גיט\\Git\\DispalyData\\DispalyData\\obj\\",
+      "outputPath": "C:\\Users\\a0548\\Documents\\לימודים\\שנה ב\\c#\\גיט 1\\Git\\DispalyData\\DispalyData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\a0548\\AppData\\Roaming\\NuGet\\NuGet.Config",

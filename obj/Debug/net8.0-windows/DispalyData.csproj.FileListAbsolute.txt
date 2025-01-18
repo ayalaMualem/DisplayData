@@ -19,3 +19,24 @@ C:\Users\a0548\Documents\לימודים\שנה ב\c#\שיעור 17 גיט\Git\Di
 C:\Users\a0548\Documents\לימודים\שנה ב\c#\שיעור 17 גיט\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.pdb
 C:\Users\a0548\Documents\לימודים\שנה ב\c#\שיעור 17 גיט\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.genruntimeconfig.cache
 C:\Users\a0548\Documents\לימודים\שנה ב\c#\שיעור 17 גיט\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\ref\DispalyData.dll
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\bin\Debug\net8.0-windows\DispalyData.exe
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\bin\Debug\net8.0-windows\DispalyData.deps.json
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\bin\Debug\net8.0-windows\DispalyData.runtimeconfig.json
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\bin\Debug\net8.0-windows\DispalyData.dll
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\bin\Debug\net8.0-windows\DispalyData.pdb
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData_MarkupCompile.cache
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData_MarkupCompile.lref
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.g.resources
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.AssemblyInfoInputs.cache
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.AssemblyInfo.cs
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.csproj.CoreCompileInputs.cache
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.sourcelink.json
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.dll
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\refint\DispalyData.dll
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.pdb
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\DispalyData.genruntimeconfig.cache
+C:\Users\a0548\Documents\לימודים\שנה ב\c#\גיט 1\Git\DispalyData\DispalyData\obj\Debug\net8.0-windows\ref\DispalyData.dll

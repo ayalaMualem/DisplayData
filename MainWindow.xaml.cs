@@ -21,7 +21,7 @@ namespace DispalyData
         {
             InitializeComponent();
             DateLable.Content = DateTime.Now.ToString("yyyy-MM-dd HH:mm");
-            ;
+            int x = 5;
         }
     }
 }
